@@ -43,8 +43,8 @@ h1 {
     justify-content: center;
     color: rgb(255, 255, 148);
     font-size: 110px;
-    border-right: 2px solid;
-    border-bottom: 2px solid;
+    border-right: 2px solid rgb(117, 217, 250);
+    border-bottom: 2px solid rgb(117, 217, 250);
 }
 .box:nth-child(3n) {
     border-right: none;
